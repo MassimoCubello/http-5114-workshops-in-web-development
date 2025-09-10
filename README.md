@@ -1,7 +1,6 @@
 # http5114-workshops-in-web-development
 Class files and exercises from Workshops in Web Development.
 
-Workshops in Web Development 1
 Course Code: HTTP 5114
 
 Professor: Adam Thomas
