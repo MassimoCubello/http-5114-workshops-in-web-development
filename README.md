@@ -1,4 +1,4 @@
-# http5114-workshops-in-web-development
+# http-5114-workshops-in-web-development
 Class files and exercises from Workshops in Web Development.
 
 Course Code: HTTP 5114
