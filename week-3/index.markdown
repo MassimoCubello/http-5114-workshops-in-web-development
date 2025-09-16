@@ -81,3 +81,15 @@ Here is a list of languages in a table:
 | HTML     | 1        | Front         |
 | PHP      | 2        | Back          |
 
+## Commenting
+
+Use HTML comments.
+
+<!-- HTML COMMENTS WILL WORK -->
+
+## Notes and Warnings
+
+> This is a block quote.
+
+> [!WARNING]
+> This is a warning.
