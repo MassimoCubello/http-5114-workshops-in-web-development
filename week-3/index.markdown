@@ -54,4 +54,4 @@ This is a link to [my LinkedIn profile](https://www.linkedin.com/in/massimocubel
 
 ## Images
 
-![A photo of an F1 car on a wet racetrack.](free-photo-of-formula-one-car-on-rainy-racetrack-finish-line.jpeg)
+![A photo of an F1 car on a wet racetrack.](filenamehere.jpeg)
