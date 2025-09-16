@@ -55,3 +55,29 @@ This is a link to [my LinkedIn profile](https://www.linkedin.com/in/massimocubel
 ## Images
 
 ![logo description](mc.png)
+
+## Code (In-line and Block)
+
+You can add **in-line** using single tics.
+
+Create a variable named `var test = 1`.
+
+Or you can use three tics for a **block** of code:
+
+```javascript
+var test = 1;
+if(test == 1))
+{
+    console.log("Hello World!");
+}
+```
+
+## Tables
+
+Here is a list of languages in a table:
+
+| Langauge | Semester | Front of Back |
+| -------- | -------- | ------------- |
+| HTML     | 1        | Front         |
+| PHP      | 2        | Back          |
+
